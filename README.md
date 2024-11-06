@@ -4,7 +4,7 @@
 
 # Data Visualization Project
 
-This project is a full-stack application that visualizes sales data using various chart types (Bar, Pie, and Line) powered by Chart.js and React on the frontend. It retrieves sales data from a MongoDB database via an Express.js backend, allowing users to view and analyze sales trends for different products over time.
+This project is a full-stack application that visualizes sales data using various chart types (Bar, Pie, and Line) powered by Chart.js and React on the frontend. It retrieves sales data from a MongoDB database via an Express.js backend, allowing users to view and analyze  trends for different products over time.
 
 
 
@@ -53,7 +53,7 @@ Follow these instructions to set up and run the project locally.
 
    ```env
    MONGODB_URI=your_mongodb_connection_string
-   PORT=4000
+   PORT=5000
    ```
 
    Replace `your_mongodb_connection_string` with your actual MongoDB URI.
